@@ -1,3 +1,6 @@
 [submodule "01-whiteboard"]
 	path = 01-whiteboard
 	url = https://github.com/cisc3160-PL/01-whiteboard
+[submodule "01-vizplex2d"]
+	path = 01-vizplex2d
+	url = https://github.com/cisc3160-PL/01-vizplex2d
