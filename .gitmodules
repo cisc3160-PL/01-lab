@@ -4,3 +4,6 @@
 [submodule "01-vizplex2d"]
 	path = 01-vizplex2d
 	url = https://github.com/cisc3160-PL/01-vizplex2d
+[submodule "01-spacex-stats"]
+	path = 01-spacex-stats
+	url = https://github.com/cisc3160-PL/01-spacex-stats
